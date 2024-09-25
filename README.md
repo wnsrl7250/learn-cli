@@ -10,3 +10,7 @@
 - branch
 - switch
 - merge
+
+## Git 병합 방법 (3가지 방식)
+
+- Fast Forward
