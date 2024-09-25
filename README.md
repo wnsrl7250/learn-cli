@@ -9,3 +9,4 @@
 - restore
 - branch
 - switch
+- merge
